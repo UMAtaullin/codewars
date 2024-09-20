@@ -6,20 +6,17 @@ My solutions to problems from the Codewars platform in various programming langu
 
 ## Structure
 
-Solutions are organized by programming languages ​​in separate folders:
+In each level, there is a task condition in the folder with the task name (instructions.md ) and solutions in different programming languages:
 
-- JavaScript/
-  - 8 kyu/
-    - Task name
-      - instructions.md
-      - solve-1.js
-      - solve-2.js
-  - 7 kyu/
-  - ...
-- Python/
-  - 8 kyu/
-  - 7 kyu/
-  - ...
+- 8 kyu/
+  - Task name
+    - instructions.md
+    - solve-1.js - a JavaScript task 
+    - solve-2.py - a Python task
+    - ...
+
+- 7 kyu/
+- ...
 
 ## Contribution
 
